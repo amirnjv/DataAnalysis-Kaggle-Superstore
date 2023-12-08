@@ -1,4 +1,4 @@
-## SuperStore Data Analysis: SQL & Python Integration
+## Kaggle SuperStore Data Analysis: SQL & Python Integration
 
 ### SQL for Data Interpretation
 
